@@ -1,4 +1,9 @@
-# Hechos para sprints, no maratones
+---
+layout: post
+title:  "Día 6: Hechos para sprints, no maratones"
+date:   2015-12-07 03:37:07 +0100
+categories: dailyblog
+---
 
 Antes de empezar con este post me gustaría aclarar que no escribo todo esto porque un experto ni mucho menos. Simplemente lo hago para compartir mis ideas sobre diferentes temas, ahora sobre lo que voy leyendo del libro. Soy el primero que se equivoca a lo que organización se refiere.
 
@@ -7,7 +12,7 @@ He jugado unos 10 años de mi vida Fútbol americano. Es un deporte que me gusta
 
 Tenemos la idea que entre más horas le dediquemos a algo, mas conseguiremos. Seguro que si conseguimos cosas, pero debemos pensar también en la *calidad* de las horas, y no solo en la cantidad. Cuando empece a estudiar Diseño, me la pasaba prácticamente en la universidad. llegaba a las 7:00am y salía a las 10:00pm. Casi todos los días. Era joven y estaba solo en un país extranjero, me lo pasaba bien no solo en mis clases sino en muchas otras mas de otras disciplinas. Sacrificaba el dormir y descansar por la ilusión de *aprovechar más el tiempo*mayoría y dinero que mis padres estaban pagando.  Éste tipo de ritmos te puede funcionar un tiempo, pero va completamente en contra a como biológicamente estamos programados. Luego nos pasa que no podemos dejar el cafe o el chocolate...descontrolado
 
-Un dato curioso: Podemos pasar una semana sin comer, pero no podemos pasar una semana sin dormir. Si no comes el resultado es que adelgazas, pero si no duermes, tu cuerpo se descontrola completamente. Biológicamente hablando, muchas partes de nuestro cuerpo sigue el [ritmo ultradiano](https://es.wikipedia.org/wiki/Ritmo_ultradiano), es básicamente un ciclo de entre 90 y 120 minutos, en el cual nuestro cuerpo trabaja. Esto pasa con nuestra capacidad de concentración y energía. 
+Un dato curioso: Podemos pasar una semana sin comer, pero no podemos pasar una semana sin dormir. Si no comes el resultado es que adelgazas, pero si no duermes, tu cuerpo se descontrola completamente. Biológicamente hablando, muchas partes de nuestro cuerpo sigue el [ritmo ultradiano](https://es.wikipedia.org/wiki/Ritmo_ultradiano), es básicamente un ciclo de entre 90 y 120 minutos, en el cual nuestro cuerpo trabaja. Esto pasa con nuestra capacidad de concentración y energía.
 
 **Dormir es muy necesario**. Muy pocas personas llegan a descansar realmente bien durmiendo menos de 7 a 8 horas al día. Es lo primero que debemos respetar, *yo el primero* :(
 
