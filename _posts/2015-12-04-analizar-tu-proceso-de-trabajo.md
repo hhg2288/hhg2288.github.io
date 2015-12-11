@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Día 3: 'Trabajar' en tu Proceso de trabajo"
+title:  "Post 003: 'Trabajar' en tu Proceso de trabajo"
 date:   2015-12-04 03:37:07 +0100
 categories: dailyblog
 ---

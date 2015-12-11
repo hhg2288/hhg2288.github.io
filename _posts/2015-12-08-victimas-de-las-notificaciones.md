@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Día 7: Sómos victimas de las Notificaciones"
+title:  "post 007: Sómos victimas de las Notificaciones"
 date:   2015-12-08 03:37:07 +0100
 categories: dailyblog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Día 1: Aceptar el Fracaso"
+title:  "Post 001: Aceptar el Fracaso"
 date:   2015-12-02 03:37:07 +0100
 categories: dailyblog
 ---

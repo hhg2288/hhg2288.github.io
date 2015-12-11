@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Día 2: Un poco de contexto"
+title:  "Post 002: Un poco de contexto"
 date:   2015-12-03 03:37:07 +0100
 categories: dailyblog
 ---  

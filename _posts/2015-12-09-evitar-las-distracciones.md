@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Día 8: Evitar las tentaciones."
+title:  "Post 008: Evitar las tentaciones."
 date:   2015-12-09 03:37:07 +0100
 categories: dailyblog
 ---

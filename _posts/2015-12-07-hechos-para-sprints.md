@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Día 6: Hechos para sprints, no maratones"
+title:  "Post 006: Hechos para sprints, no maratones"
 date:   2015-12-07 03:37:07 +0100
 categories: dailyblog
 ---

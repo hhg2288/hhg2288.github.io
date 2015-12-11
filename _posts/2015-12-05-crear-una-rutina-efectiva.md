@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Día 4: Crear una rutina diaria efectiva"
+title:  "Post 004: Crear una rutina diaria efectiva"
 date:   2015-12-05 03:37:07 +0100
 categories: dailyblog
 ---

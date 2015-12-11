@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Día 5: Frecuencia y Consistencia"
+title:  "Post 005: Frecuencia y Consistencia"
 date:   2015-12-06 03:37:07 +0100
 categories: dailyblog
 ---
