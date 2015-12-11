@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post 009: Autocontrol"
-date:   2015-12-08 03:37:07 +0100
+date:   2015-12-10 03:37:07 +0100
 categories: dailyblog
 ---
 
