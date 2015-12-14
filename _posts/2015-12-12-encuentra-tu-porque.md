@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post 011: "Encontrar" nuestro Por Qué"
+title:  "Post 011: 'Encontrar' nuestro Por Qué"
 date:   2015-12-12 03:37:07 +0100
 categories: dailyblog
 ---
@@ -13,7 +13,7 @@ No solamente ésto, sino que científicamente está comprobado que el mal uso de
 
 Cuando estamos en el colegio a todos nos enseñan que tenemos que seguir una serie de reglas preestablecidas tanto de conducta como académicas. En mis tiempos de colegio, sobretodo los últimos años, realmente no era un alumno excepcional. Siempre estaba cuestionando a todos los que me obligaban a hacer cosas, de **Por Qué** había que hacerlas; no me gusta que me digan lo que tengo que hacer ni cómo tengo que hacerlo y más cuando no hay ninguna razón justificada.
 
-Esta parte del post no tiene nada que ver con el libro (bueno, un poquito) pero hoy siento las ganas de hablar de este tema. Nosotros tenemos dos momentos muy importantes en nuestra vida: El día que nacemos, **y el día que nos damos cuenta de POR QUÉ nacimos, del propósito que tenemos en esta vida**. Esto quizás lo hayas escuchado alguna vez, pero es incluso más importante cuando tienes hijos. 
+Esta parte del post no tiene nada que ver con el libro (bueno, un poquito) pero hoy siento las ganas de hablar de este tema. Nosotros tenemos dos momentos muy importantes en nuestra vida: El día que nacemos, **y el día que nos damos cuenta de POR QUÉ nacimos, del propósito que tenemos en esta vida**. Esto quizás lo hayas escuchado alguna vez, pero es incluso más importante cuando tienes hijos.
 
 La única forma de saber nuestro *por qué*, es detenernos un momento a pensar en lo que realmente disfrutamos haciendo. Encontrar lo que realmente te hace sentir lleno en todos los aspectos. Durante el camino se falla mucho, y lo llegas a pasar mal, pero piensa que es mucho mejor ésto que pasarte el resto de tu vida haciendo algo por hacerlo, algo que en realidad te está matando, tanto emocional como intelectualmente. Cuando lleguemos a nuestro lecho de muerte no nos arrepentiremos por lo que hemos hecho, sino por lo que no hemos llegado a hacer y ya será demasiado tarde.
 
