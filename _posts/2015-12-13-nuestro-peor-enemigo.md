@@ -22,3 +22,5 @@ Esta semana yo tenía más actividades fuera de casa  que todo el año. No fui a
 **Me gustaría saber tu opinión!,**
 
 El libro profundiza muchísimo en las razones por las cuales el mal uso de la tecnología nos afecta y nos hace perder mucho tiempo, lo hace tanto de manera anecdótica como científica. Parece que está completamente en contra de las redes sociales, pero no es así. *Es el uso que le damos, no la tecnología en si*. En realidad estos posts son mi punto de vista un poco de lo que habla el libro y de otras cosas que me pasan/veo durante el día. Si quieres saber más sobre las razones que menciona el libro, te recomiendo leerlo. Si no sabes inglés no te preocupes, buscaremos una solución pronto...
+
+Me encantaría escuchar tu opinión. Y cualquier sugerencia que veas me puede ayudar a mejorar será muy agradecida y reconocida.
